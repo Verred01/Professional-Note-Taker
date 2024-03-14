@@ -24,7 +24,9 @@ Anyone can contribute
 None
 
 ## Credits
+https://git.bootcampcontent.com/University-of-Utah/UofU-VIRT-FSF-PT-10-2023-U-LOLC
 
+https://expressjs.com/en/guide/routing.html#express-router
 
 ## License
 None
