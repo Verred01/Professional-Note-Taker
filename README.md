@@ -1,2 +1,30 @@
-# Professional-Note-Taker
-This is a repository for Challenge 11 in the Bootcamp Coding Course. It is a note taking application.
+# Professional Note Taker
+
+## Description
+This is a note taker application used to easily generate notes that you wish to write down.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+None
+
+## Usage
+Anyone can use
+
+## Contributing
+Anyone can contribute
+
+## Tests
+None
+
+## Credits
+
+
+## License
+None
